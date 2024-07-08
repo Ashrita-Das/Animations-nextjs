@@ -1,2 +1,3 @@
 - [Smooth Parallax Scroll Animation Live Site](https://animations-nextjs-flax.vercel.app/)
-- [Project Gallery Animation](https://animations-one-lemon.vercel.app/)
+- [Project Gallery Animation Live Site](https://animations-one-lemon.vercel.app/)
+- [Curved Menu Animation Live Site](https://animations-nextjs-wk4t.vercel.app/)
